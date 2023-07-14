@@ -1,0 +1,5 @@
+Begin   
+    if top = -1 then stack empty    
+    item = stack[top]   
+    return item  
+End    
